@@ -1,0 +1,12 @@
+{
+	"name": "bot",
+	"description": "yoyoyo",
+	"version": "1.0.0",
+	"main": "bot.js",
+	"scripts": {
+		"test": "node bot.js"
+	},
+	"dependencies": {
+		"discord.js": "^3.0.1"
+	}
+}
